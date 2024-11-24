@@ -3,7 +3,7 @@
   <img src="profil.svg" alt="abdukulov"/>
 </h1>
 
-<table style="width:100%; text-align:center;">
+<table style="width:100%;">
   <thead>
     <tr>
       <th><strong>Programming Languages & Frameworks</strong></th>

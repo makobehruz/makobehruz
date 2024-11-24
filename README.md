@@ -3,7 +3,6 @@
   <img src="profil.svg" alt="abdukulov"/>
 </h1>
 
-<img width="70%" src="https://raw.githubusercontent.com/oussamabouchikhi/oussamabouchikhi/master/assets/skills.png" alt="cover" />
 
 
 

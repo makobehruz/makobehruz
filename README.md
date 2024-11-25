@@ -13,9 +13,11 @@
 </div>
 
 <style>
+
 .profil {
     text-align: center;
 }
+
 </style>
 
 

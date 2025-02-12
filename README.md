@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="profil.svg" alt="abdukulov"/>
+  <img src="profil.svg">
 </h1>
 
 <br>
